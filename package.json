@@ -29,7 +29,7 @@
     "commander": "^9.0.0",
     "node-fetch": "^2.6.0",
     "shortid": "^2.2.8",
-    "unzipper": "^0.10.11"
+    "unzipper": "^0.11.6"
   },
   "devDependencies": {
     "@types/cli-progress": "^3.7.0",
